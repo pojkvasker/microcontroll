@@ -1,0 +1,1 @@
+avrdude -B 5 -c usbasp -p m328 -U flash:w:labb_02_code_01.hex
